@@ -1,3 +1,10 @@
+Ateliê da Ju - Artesanato em Crochê
+Bem-vindo ao Ateliê da Ju, um lugar onde a arte encontra a delicadeza do crochê em fio de malha. Nosso site oferece peças únicas e exclusivas, feitas à mão com todo o carinho, perfeitas para decorar sua casa com um toque de amor e personalidade.
+
+No Ateliê da Ju, transformamos fios em verdadeiras obras de arte. Cada peça é cuidadosamente confeccionada para trazer um charme especial para o seu lar, desde cestos e bolsas até itens decorativos para todos os cantinhos da sua casa.
+
+Explore nosso site e descubra a beleza do crochê em fio de malha!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
